@@ -1,0 +1,50 @@
+* {
+/*	 border: solid 1px; */
+}
+
+h3, h4 {
+	margin: 10px 0 20px 0;
+}
+
+h6 {
+	margin: 10px 0;
+}
+
+.container {
+	padding-top: 40px;
+	color: #585858;
+}
+
+.btnWrap {
+	padding: 7px;
+}
+
+.btn {
+	margin: 0;
+}
+
+.progress {
+	margin-top: 30px;
+}
+
+::-webkit-input-placeholder { /* Edge */
+  color: red;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: red;
+}
+
+.form-control::-webkit-input-placeholder { color: #a6a6a6; }  /* WebKit, Blink, Edge */
+.form-control:-moz-placeholder { color: #a6a6a6; }  /* Mozilla Firefox 4 to 18 */
+.form-control::-moz-placeholder { color: #a6a6a6; }  /* Mozilla Firefox 19+ */
+.form-control:-ms-input-placeholder { color: #a6a6a6; }  /* Internet Explorer 10-11 */
+.form-control::-ms-input-placeholder { color: #a6a6a6; }  /* Microsoft Edge */
+
+.progress-bar {
+	width: 0%;
+}
+
+#startOver {
+	margin-top: 30px;
+}
